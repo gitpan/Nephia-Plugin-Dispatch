@@ -54,7 +54,7 @@
    "provides" : {
       "Nephia::Plugin::Dispatch" : {
          "file" : "lib/Nephia/Plugin/Dispatch.pm",
-         "version" : "0.02"
+         "version" : "0.03"
       }
    },
    "release_status" : "stable",
@@ -68,5 +68,5 @@
          "web" : "https://github.com/nephia/Nephia-Plugin-Dispatch"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
